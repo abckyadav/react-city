@@ -33,6 +33,13 @@ export default function Home() {
             <td>{e.country}</td>
             <td>{e.city}</td>
             <td>{e.population}</td>
+
+            <td>
+              <button>Edit</button>
+            </td>
+            <td>
+              <button>Delete</button>
+            </td>
           </tr>
         ))}
       </table>

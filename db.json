@@ -7,5 +7,12 @@
       "id": 1
     }
   ],
-  "cities": []
+  "cities": [
+    {
+      "city": "Patna",
+      "population": "100000",
+      "country": "",
+      "id": 1
+    }
+  ]
 }
